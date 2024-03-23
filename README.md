@@ -1,0 +1,1 @@
+The YOLO v8 model relaibly identifies wild boars, with visual aids like charts demonstrating quick response times and high accuracy. Emphasizing practical use it showcases the system's potential to address wild boar encroachment in real world situations.
